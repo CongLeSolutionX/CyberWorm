@@ -1,9 +1,4 @@
-
 ----
-
-
-
----
 created: YYYY-MM-DD HH:MM:SS # CHANGE_ME: Update with creation date
 author: [Your Name or Organization Name] # CHANGE_ME: Your author credit
 version: "1.0"
