@@ -10,9 +10,10 @@ copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
 # The meaning of a liberal education - CyberWorm Visualization
 > **Disclaimer:**
 >
-> This document contains visual interpretations and notes based on the public domain work "[Book Title]", sourced from Project Gutenberg.
+> This document contains visual interpretations and notes based on the public domain work "The meaning of a liberal education", sourced from Project Gutenberg.
 > The materials are intended for educational purposes, literary analysis, personal study, and reference.
 > As part of the CyberWorm initiative, the content created here (text, diagrams) is licensed under:
+>
 > **Creative Commons Attribution 4.0 International License (CC BY 4.0):** Applies to all non-code content, including text, explanations, and Mermaid diagrams/illustrations. Any potential future code snippets related to processing or generation might fall under MIT, but the core visualizations follow CC BY 4.0.
 
 
