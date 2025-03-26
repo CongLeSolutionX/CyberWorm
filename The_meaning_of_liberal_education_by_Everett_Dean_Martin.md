@@ -1,12 +1,11 @@
-----
-created: YYYY-MM-DD HH:MM:SS # CHANGE_ME: Update with creation date
-author: [Your Name or Organization Name] # CHANGE_ME: Your author credit
+---
+created: 2025-03-24 05:31:26
+author: Cong Le
 version: "1.0"
-license(s): CC BY 4.0 # Note: Primarily CC BY 4.0 for diagrams/text, MIT option for potential future code snippets
-copyright: Copyright (c) YYYY [Your Name or Organization Name]. All Rights Reserved. # CHANGE_ME: Update year and name
+license(s): MIT, CC BY 4.0
+copyright: Copyright (c) 2025 Cong Le. All Rights Reserved.
+---
 
-
------
 
 # The meaning of a liberal education - CyberWorm Visualization
 > **Disclaimer:**
