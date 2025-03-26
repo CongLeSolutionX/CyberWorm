@@ -354,10 +354,13 @@ Contributions are welcome to expand the CyberWorm universe! We need help with:
 
 ---
 
+
 ## License
 
 1.  **Source Texts**: Ebooks from Project Gutenberg are generally **Public Domain in the U.S.** Copyright status varies elsewhere; verify for your location. See [Project Gutenberg Licensing](https://www.gutenberg.org/policy/license.html).
-2.  **CyberWorm Content**: All diagrams (`.mmd`) and explanatory text (`README.md` files) created specifically for the CyberWorm project are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Credit must be given when sharing or adapting.
+2. **Code Implementations**: Source code files implementing the algorithm, possibly in multiple languages (e.g., Mermaid, Latex).  Code files are licensed under the [MIT License](LICENSE).
+3.  **CyberWorm Content**: All diagrams (`.md`) and explanatory text (`README.md` files) created specifically for the CyberWorm project are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Credit must be given when sharing or adapting.
+
 
 ---
 
